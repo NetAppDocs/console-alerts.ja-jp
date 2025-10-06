@@ -18,25 +18,25 @@ summary: 質問に対する簡単な回答を探している場合は、このNe
 
 == NetAppアラートへのアクセス
 
-* NetAppアラートの URL とは何ですか?*  URL については、ブラウザで次のように入力します。 https://console.netapp.com/["https://console.netapp.com/"^] NetAppコンソールにアクセスします。
+* NetAppアラートの URL とは何ですか?*  URL については、ブラウザで次のように入力します。 https://console.netapp.com/["https://console.netapp.com/"^] NetApp Consoleにアクセスします。
 
 * NetAppアラートを使用するにはライセンスが必要ですか?*
 
-NetAppアラートを使用するには、 NetApp ONTAP 9.10 以上のライセンスが必要です。ライセンスをNetAppコンソールのデジタル ウォレットに入力する必要はありません。
+NetAppアラートを使用するには、 NetApp ONTAP 9.10 以上のライセンスが必要です。ライセンスをNetApp Consoleのデジタル ウォレットに入力する必要はありません。
 
 NetAppアラートの試用ライセンスは必要ありません。
 
-* NetAppアラートを有効にするにはどうすればいいですか?* NetAppアラートを有効にする必要はありません。アラート オプションは、 NetAppコンソールの左側のナビゲーションで自動的に有効になります。
+* NetAppアラートを有効にするにはどうすればいいですか?* NetAppアラートを有効にする必要はありません。アラート オプションは、NetApp Consoleの左側のナビゲーションで自動的に有効になります。
 
 まず、コンソール エージェントを使用すると、 NetAppアラートに適切な機能が含まれます。
 
-** NetAppアラートは標準モード、制限モード、プライベート モードで利用できますか?**  NetAppアラートは、 NetAppコンソール標準 (パブリック) にのみ展開できます。
+** NetAppアラートは標準モード、制限モード、プライベート モードで利用できますか?**  NetAppアラートは、NetApp Console標準 (パブリック) にのみ展開できます。
 
-すべてのNetAppコンソールサービスにおけるこれらのモードの説明については、 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-modes.html["NetAppコンソールの展開モード"^] 。
+NetApp Consoleサービス全体にわたるこれらのモードの説明については、 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-modes.html["NetApp Consoleの展開モード"^] 。
 
-**アクセス権限はどのように処理されますか?**  NetAppコンソール組織管理者だけが、 NetAppアラートを開始し、ワークロードを検出できます (これにはリソースの使用をコミットする必要があるため)。
+**アクセス権限はどのように処理されますか?**  NetApp Console組織管理者だけが、 NetAppアラートを開始し、ワークロードを検出できます (これにはリソースの使用をコミットする必要があるため)。
 
-アラートは、 NetAppコンソール組織内のクラスターのリソースへのアクセスに応じて、ログインしているユーザーに表示されます。
+アラートは、NetApp Console組織内のクラスターのリソースへのアクセスに応じて、ログインしているユーザーに表示されます。
 
 
 

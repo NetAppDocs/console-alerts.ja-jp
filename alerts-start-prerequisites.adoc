@@ -16,24 +16,24 @@ summary: 環境、ネットワーク アクセス、ログイン、Web ブラウ
 
 ONTAPアラートを表示するには、次の前提条件が必要です。
 
-* ONTAP 9.10 以降。オンプレミス システムは、 NetAppコンソール システム ページで検出される必要があります。
+* ONTAP 9.10 以降。オンプレミス システムは、 NetApp Consoleシステム ページで検出される必要があります。
 +
 ** クラスタ管理者のONTAP権限
 +
-ライセンスをNetAppコンソールのデジタル ウォレットに入力する必要はありません。
+ライセンスをNetApp Consoleのデジタル ウォレットに入力する必要はありません。
 
 
 
-* NetAppコンソールの場合:
+* NetApp Consoleの場合:
 +
-** NetAppオンプレミス NAS または SAN ストレージを備えたNetAppコンソール システム
-** オンプレミス リージョンのコンソール エージェントをNetAppコンソールで設定する必要があります。参照 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コンソールエージェントを構成するためのNetAppコンソールドキュメント"^]。
+** NetAppオンプレミス NAS または SAN ストレージを備えたNetApp Consoleシステム
+** オンプレミス リージョンのコンソール エージェントをNetApp Consoleで設定する必要があります。参照 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コンソールエージェントを構成するためのNetApp Consoleドキュメント"^]。
 +
 クラスターがコンソール エージェントから削除された場合、そのクラスターに関連するアラートは 90 日間残ります。また、コンソール エージェントを変更した場合、アラートは元のクラスターとエージェントに関連付けられたまま 90 日間残ります。元のエージェントに戻ると、それらのアラートが再び表示されます。
 
-** オンプレミスのONTAPクラスターに接続するアクティブなコンソール エージェントが少なくとも 1 つあるNetAppコンソール組織。すべてのソースとシステムは同じNetAppコンソール組織内にある必要があります。
-** リソースを検出するための組織管理者権限を持つ、その組織内のNetAppコンソール ユーザー
-** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["標準的なNetAppコンソールの要件"^]
+** オンプレミスのONTAPクラスターに接続するアクティブなコンソール エージェントが少なくとも 1 つあるNetApp Console組織。すべてのソースとシステムは同じNetApp Console組織内にある必要があります。
+** リソースを検出するための組織管理者権限を持つ、その組織内のNetApp Consoleユーザー
+** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["標準的なNetApp Consoleの要件"^]
 
 
 

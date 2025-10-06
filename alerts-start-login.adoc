@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: alerts-start-login.html 
 keywords: NetApp Console login, log in, ontap, netapp 
-summary: NetAppコンソールでONTAPアラートにアクセスして、 ONTAPアラートを開始します。 
+summary: NetApp ConsoleでONTAPONTAPの使用を開始します。 
 ---
 = ONTAPアラートにアクセスする
 :hardbreaks:
@@ -12,12 +12,12 @@ summary: NetAppコンソールでONTAPアラートにアクセスして、 ONTAP
 
 
 [role="lead"]
-ONTAPアラートを表示するには、 NetAppコンソールを使用します。
+ONTAPアラートを表示するには、 NetApp Consoleを使用します。
 
-NetAppコンソールにログインするには、 NetAppサポート サイトの認証情報を使用するか、電子メールとパスワードを使用してNetAppクラウド ログインにサインアップすることができます。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["ログインについて詳しくはこちら"^] 。
+NetApp Consoleにログインするには、 NetAppサポート サイトの認証情報を使用するか、電子メールとパスワードを使用してNetAppクラウド ログインにサインアップすることができます。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["ログインについて詳しくはこちら"^] 。
 
 .手順
-. ウェブブラウザを開いて、 https://console.netapp.com/["NetAppコンソール"^] 。
+. ウェブブラウザを開いて、 https://console.netapp.com/["NetApp Console"^] 。
 +
 コンソールのログイン ページが表示されます。
 

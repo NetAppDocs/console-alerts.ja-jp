@@ -20,7 +20,7 @@ link:alerts-start-prerequisites.html["環境がこれらの要件を満たして
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["2"]ONTAPアラートを設定する
 [role="quick-margin-para"]
-link:alerts-start-setup.html["NetAppコンソールでコンソールエージェントを構成する"] 。
+link:alerts-start-setup.html["NetApp Consoleでコンソールエージェントを構成する"] 。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三つ"]次は何?
 [role="quick-margin-para"]

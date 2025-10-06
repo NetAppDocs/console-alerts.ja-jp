@@ -16,13 +16,13 @@ ONTAPアラートを使用するには、いくつかの手順を実行して設
 
 始める前に、link:alerts-start-prerequisites.html["前提条件"]環境の準備ができていることを確認します。
 
-レビュー https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["標準のNetAppコンソールの要件"^]。
+レビュー https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["標準のNetApp Consoleの要件"^]。
 
 
 
 == クラスターリソースへのアクセス
 
-アラートを表示するには、ログインしているユーザーがNetAppコンソール組織に属しており、クラスター リソースへの必要なアクセス権を持っている必要があります。
+アラートを表示するには、ログインしているユーザーがNetApp Console組織に属しており、クラスター リソースへの必要なアクセス権を持っている必要があります。
 
 
 
@@ -30,6 +30,6 @@ ONTAPアラートを使用するには、いくつかの手順を実行して設
 
 ONTAPアラートを試用または使用するには、 NetApp の営業担当者に問い合わせてください。その後、コンソール エージェントを使用すると、 ONTAPアラートに適切な機能が含まれるようになります。
 
-NetAppコンソールでコンソールエージェントを作成するには、 BlueXPのドキュメントを参照してください。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コンソールエージェントを作成する方法"^] 。
+NetApp Consoleでコンソールエージェントを作成するには、 BlueXPのドキュメントを参照してください。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コンソールエージェントを作成する方法"^] 。
 
 コンソール エージェントをセットアップしてシステムを追加した後、初期検出が完了するまで約 15 分間待ちます。
