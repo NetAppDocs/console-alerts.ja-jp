@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: alerts-use-overview.html 
+keywords: alerts, alerts, ontap, netapp 
+summary: NetAppアラートを使用すると、ワークロードの健全性を表示し、ワークロードを保護できます。 
+---
+= ONTAPアラートの概要を表示
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+ストレージの問題を表示し、 ONTAP System Manager への直接リンクで詳細を確認します。
+
+* link:alerts-use-dashboard.html["アラートリストページからストレージの問題や潜在的なリスクを表示します"] 。
+* link:alerts-use-alerts.html["ONTAP System Managerでリンクされているアラートの詳細を表示します"] 。
+

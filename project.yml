@@ -1,0 +1,47 @@
+---
+settings:
+  name: ONTAP alerts
+  internal:
+    pdf_enabled: true
+    termcheck_enabled: true
+    lipi_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  rss_page: whats-new.html
+  langs: ja-jp,us-en,de-de,es-es,fr-fr,it-it,pt-br,ko-kr,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: ONTAPアラートのドキュメント
+    url: "/index.html"
+  - title: リリース ノート
+    entries:
+    - title: 新機能
+      url: "/whats-new.html"
+  - title: 始めましょう
+    entries:
+    - title: ONTAPアラートについて学ぶ
+      url: "/concept-alerts.html"
+    - title: 前提条件
+      url: "/alerts-start-prerequisites.html"
+    - title: クイック スタート
+      url: "/alerts-start-quick-start.html"
+    - title: ONTAPアラートを設定する
+      url: "/alerts-start-setup.html"
+    - title: ONTAPアラートにアクセスする
+      url: "/alerts-start-login.html"
+  - title: ONTAPアラートを使用する
+    entries:
+    - title: ONTAPアラートの概要を表示
+      url: "/alerts-use-overview.html"
+    - title: ONTAPストレージの潜在的なリスクを表示する
+      url: "/alerts-use-dashboard.html"
+    - title: ストレージシステムのアラートを表示する
+      url: "/alerts-use-alerts.html"
+  - title: FAQ
+    url: "/alerts-faq.html"
+  - title: 法律上の表示
+    url: "/legal-notices.html"
+product-family:
+  name: NetApp Console
+  repo: console-family

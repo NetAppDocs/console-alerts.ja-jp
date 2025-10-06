@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-quick-start.html 
+keywords: how to get started with bluexp alerts, alerts quick start, netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
+summary: 数ステップでONTAPアラートを開始できます。 
+---
+= ONTAPアラートのクイックスタート
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+ONTAPアラートの使用を開始するために必要な手順の概要を次に示します。各ステップ内のリンクをクリックすると、詳細情報を提供するページに移動します。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["1"]前提条件を確認する
+[role="quick-margin-para"]
+link:alerts-start-prerequisites.html["環境がこれらの要件を満たしていることを確認してください"] 。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["2"]ONTAPアラートを設定する
+[role="quick-margin-para"]
+link:alerts-start-setup.html["NetAppコンソールでコンソールエージェントを構成する"] 。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三つ"]次は何?
+[role="quick-margin-para"]
+ONTAPアラートを設定したら、次に実行する操作は次のとおりです。
+
+[role="quick-margin-list"]
+* link:alerts-use-dashboard.html["アラートリストページでストレージの問題と潜在的なリスクを表示します"] 。
+* link:alerts-use-alerts.html["ONTAP System Managerでアラートの詳細を表示する"] 。
+

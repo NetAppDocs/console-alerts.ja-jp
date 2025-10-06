@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-setup.html 
+keywords: bluexp, alerts, ontap, netapp 
+summary: ONTAPアラートを表示するには、いくつかの手順を実行して設定します。 
+---
+= ONTAPアラートを設定する
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+ONTAPアラートを使用するには、いくつかの手順を実行して設定します。
+
+始める前に、link:alerts-start-prerequisites.html["前提条件"]環境の準備ができていることを確認します。
+
+レビュー https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["標準のNetAppコンソールの要件"^]。
+
+
+
+== クラスターリソースへのアクセス
+
+アラートを表示するには、ログインしているユーザーがNetAppコンソール組織に属しており、クラスター リソースへの必要なアクセス権を持っている必要があります。
+
+
+
+== コンソールエージェントを作成する
+
+ONTAPアラートを試用または使用するには、 NetApp の営業担当者に問い合わせてください。その後、コンソール エージェントを使用すると、 ONTAPアラートに適切な機能が含まれるようになります。
+
+NetAppコンソールでコンソールエージェントを作成するには、 BlueXPのドキュメントを参照してください。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コンソールエージェントを作成する方法"^] 。
+
+コンソール エージェントをセットアップしてシステムを追加した後、初期検出が完了するまで約 15 分間待ちます。

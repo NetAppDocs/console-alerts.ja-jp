@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-login.html 
+keywords: NetApp Console login, log in, ontap, netapp 
+summary: NetAppコンソールでONTAPアラートにアクセスして、 ONTAPアラートを開始します。 
+---
+= ONTAPアラートにアクセスする
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+ONTAPアラートを表示するには、 NetAppコンソールを使用します。
+
+NetAppコンソールにログインするには、 NetAppサポート サイトの認証情報を使用するか、電子メールとパスワードを使用してNetAppクラウド ログインにサインアップすることができます。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["ログインについて詳しくはこちら"^] 。
+
+.手順
+. ウェブブラウザを開いて、 https://console.netapp.com/["NetAppコンソール"^] 。
++
+コンソールのログイン ページが表示されます。
+
+. コンソールにログインします。
+. コンソールの左側のナビゲーション バーから、*ストレージ* > *アラート* を選択します。
++
+アラート リスト ページが表示されます。
+
++
+image:alerts-dashboard.png["ONTAPアラートリストページ"]
+
+

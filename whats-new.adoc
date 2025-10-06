@@ -1,0 +1,61 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, ontap, bluexp, system manager' 
+summary: ONTAPアラートの新機能について説明します。 
+---
+= ONTAPアラートの新機能
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+ONTAPアラートの新機能について説明します。
+
+
+
+== 2025年10月6日
+
+
+
+=== BlueXP alertsはONTAPアラートになりました
+
+BlueXP alertsの名前がONTAPアラートに変更されました。
+
+NetAppコンソールの左側のナビゲーション バーから [*ストレージ*] > [*アラート*] を選択してアクセスできます。
+
+
+
+=== BlueXPはNetAppコンソールになりました
+
+NetAppコンソールは、強化され再構築されたBlueXP基盤上に構築され、オンプレミスとクラウド環境全体にわたるエンタープライズ グレードのNetAppストレージとNetAppデータ サービスの集中管理を提供し、リアルタイムの分析情報、ワークフローの高速化、および高度なセキュリティとコンプライアンスを備えた簡素化された管理を実現します。
+
+変更内容の詳細については、link:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["NetAppコンソールのリリースノート"] 。
+
+
+
+== 2024年10月7日
+
+
+
+=== BlueXP alerts一覧ページ
+
+容量やパフォーマンスが低いONTAPクラスタを迅速に識別し、可用性の範囲を測定し、セキュリティ リスクを特定できます。容量、パフォーマンス、保護、可用性、セキュリティ、構成に関連するアラートを表示できます。
+
+
+
+=== アラートの詳細
+
+アラートの詳細を掘り下げて推奨事項を見つけることができます。
+
+
+
+=== ONTAP System Managerにリンクされたクラスタの詳細を表示する
+
+BlueXP alertsを使用すると、 ONTAPストレージ環境に関連付けられたアラートを表示し、 ONTAP System Manager にリンクされている詳細をドリルダウンできます。
+
+https://docs.netapp.com/us-en/bluexp-alerts/concept-alerts.html["BlueXP alertsについて学ぶ"] 。

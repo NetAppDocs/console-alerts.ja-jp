@@ -1,0 +1,36 @@
+---
+indexpage:
+  title: ONTAPアラートのドキュメント
+  summary: NetApp ONTAP環境における問題または潜在的なリスクを表示します。  ONTAP System Manager を使用して、アラートの詳細をドリルダウンし、クラスタ情報を表示できます。
+  keywords: bluexp, ONTAP, alerts, system manager
+  lead: NetApp ONTAP環境における容量、パフォーマンス、保護、可用性、セキュリティに関連する問題または潜在的なリスクを表示します。アラートの詳細をドリルダウンし、
+    ONTAP System Manager にリンクされたクラスタ情報を表示できます。
+  tiles:
+  - title: 始めましょう
+    links:
+    - title: ONTAPアラートについて学ぶ
+      url: "/concept-alerts.html"
+    - title: ONTAPアラートの新機能
+      url: "/whats-new.html"
+    - title: 前提条件
+      url: "/alerts-start-prerequisites.html"
+    - title: クイック スタート
+      url: "/alerts-start-quick-start.html"
+    - title: ONTAPアラートを設定する
+      url: "/alerts-start-setup.html"
+    - title: FAQ
+      url: "/alerts-faq.html"
+  - title: ONTAPアラートを使用する
+    links:
+    - title: ONTAPアラートの概要を表示
+      url: "/alerts-use-overview.html"
+    - title: アラートリストページを使用してワークロードの健全性を表示する
+      url: "/alerts-use-dashboard.html"
+  - title: ブログとコミュニティ
+    links:
+    - title: NetAppコンソール
+      url: https://www.netapp.com/console
+    - title: NetAppデータサービス
+      url: https://www.netapp.com/data-services/
+    - title: NetAppコミュニティ
+      url: https://community.netapp.com
