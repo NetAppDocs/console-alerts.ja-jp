@@ -2,7 +2,7 @@
 indexpage:
   title: ONTAPアラートのドキュメント
   summary: NetApp ONTAP環境における問題または潜在的なリスクを表示します。  ONTAP System Manager を使用して、アラートの詳細をドリルダウンし、クラスタ情報を表示できます。
-  keywords: bluexp, ONTAP, alerts, system manager
+  keywords: NetApp Console, ONTAP, alerts, system manager, bluexp
   lead: NetApp ONTAP環境における容量、パフォーマンス、保護、可用性、セキュリティに関連する問題または潜在的なリスクを表示します。アラートの詳細をドリルダウンし、
     ONTAP System Manager にリンクされたクラスタ情報を表示できます。
   tiles:
