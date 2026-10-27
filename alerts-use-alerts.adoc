@@ -4,7 +4,7 @@ permalink: alerts-use-alerts.html
 keywords: alerts, ontap, netapp, system manager, bluexp 
 summary: NetAppアラートを使用すると、 ONTAPストレージ システムに関連付けられたアラートを表示し、 ONTAP System Manager にリンクされている詳細をドリルダウンできます。 
 ---
-= ONTAPストレージ システムでアラートの詳細を表示する
+= NetApp ConsoleでONTAPストレージシステムのアラートの詳細を表示
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,6 +16,7 @@ ONTAPストレージ システムに関連付けられたアラートを表示�
 
 
 
+[[view-alert-details]]
 == アラートの詳細を表示
 
 . link:alerts-start-login.html["NetApp Consoleにログインする"] 。
@@ -30,6 +31,7 @@ image:alerts-detail.png["アラートの詳細"]
 
 
 
+[[view-details-about-the-cluster-in-ontap-system-manager]]
 == ONTAP System Managerでクラスタの詳細を表示する
 
 . アラート リスト ページからアラートを選択します。

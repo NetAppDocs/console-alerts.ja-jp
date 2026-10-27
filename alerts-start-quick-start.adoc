@@ -4,7 +4,7 @@ permalink: alerts-start-quick-start.html
 keywords: how to get started with bluexp alerts, alerts quick start, netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
 summary: 数ステップでONTAPアラートを開始できます。 
 ---
-= ONTAPアラートのクイックスタート
+= NetApp ConsoleでのONTAPアラートのクイックスタート
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

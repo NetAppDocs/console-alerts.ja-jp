@@ -4,18 +4,21 @@
 
 
 
+[[bluexp-alerts-list-page]]
 === BlueXP alerts一覧ページ
 
 容量やパフォーマンスが低いONTAPクラスタを迅速に識別し、可用性の範囲を測定し、セキュリティ リスクを特定できます。容量、パフォーマンス、保護、可用性、セキュリティ、構成に関連するアラートを表示できます。
 
 
 
+[[alerts-details]]
 === アラートの詳細
 
 アラートの詳細を掘り下げて推奨事項を見つけることができます。
 
 
 
+[[view-cluster-details-linked-to-ontap-system-manager]]
 === ONTAP System Managerにリンクされたクラスタの詳細を表示する
 
 BlueXP alertsを使用すると、 ONTAPストレージ環境に関連付けられたアラートを表示し、 ONTAP System Manager にリンクされている詳細をドリルダウンできます。

@@ -4,7 +4,7 @@ permalink: alerts-start-login.html
 keywords: NetApp Console login, log in, ontap, netapp 
 summary: NetApp ConsoleでONTAPONTAPの使用を開始します。 
 ---
-= ONTAPアラートにアクセスする
+= NetApp ConsoleでONTAPアラートにアクセスする
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

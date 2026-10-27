@@ -4,7 +4,7 @@ permalink: concept-alerts.html
 keywords: netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, NetApp Console alerts 
 summary: NetApp ONTAP環境における容量、パフォーマンス、可用性、セキュリティに関連する問題または潜在的なリスクを表示します。  ONTAP System Manager を使用して詳細をドリルダウンできます。 
 ---
-= ONTAPアラートについて学ぶ
+= NetApp ConsoleでのONTAPアラートについて
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -18,18 +18,20 @@ NetApp Consoleを使用して、 NetAppオンプレミスONTAPシステムの問
 
 
 
+[[netapp-console]]
 == NetApp Console
 
 NetApp ConsoleでONTAPアラートを表示します。
 
 NetApp Consoleは、オンプレミスとクラウド環境全体にわたるエンタープライズ グレードのNetAppストレージとデータ サービスの集中管理を提供します。 NetAppデータ サービスにアクセスして使用するには、コンソールが必要です。管理インターフェースとして、1 つのインターフェースから多数のストレージ リソースを管理できます。コンソール管理者は、企業内のすべてのシステムのストレージとサービスへのアクセスを制御できます。
 
-NetApp Consoleの使用を開始するためにライセンスやサブスクリプションは必要ありません。ストレージ システムまたはNetAppデータ サービスへの接続を確保するためにクラウドにコンソール エージェントを展開する必要がある場合にのみ料金が発生します。ただし、コンソールからアクセスできる一部のNetAppデータ サービスは、ライセンスまたはサブスクリプションベースです。
+NetApp Consoleの利用を開始するにあたり、ライセンスやサブスクリプションは必要ありません。料金が発生するのは、ストレージシステムやNetAppデータサービスへの接続を確保するために、クラウド内にConsoleエージェントを展開する必要がある場合のみです。ただし、Consoleからアクセス可能な一部のNetAppデータサービスは、ライセンス制またはサブスクリプション制です。
 
 詳細はこちら https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["NetApp Console"]。
 
 
 
+[[what-you-can-do-with-ontap-alerts]]
 == ONTAPアラートでできること
 
 ONTAPアラートを表示して、 ONTAPストレージ システムのリスクや潜在的なリスクについての最新情報を入手します。EMS 以外のアラートと EMS アラートがいくつか表示されます。次の重大度と影響領域に関する情報を確認できます。
@@ -43,6 +45,7 @@ TIP: NetApp ConsoleUI の右上にある [通知] オプションは、NetApp Co
 
 
 
+[[benefits-of-monitoring-ontap-alerts]]
 == ONTAPアラートを監視するメリット
 
 ONTAPアラートを監視すると、次のような利点があります。
@@ -54,12 +57,14 @@ ONTAPアラートを監視すると、次のような利点があります。
 
 
 
+[[cost]]
 == 料金
 
 NetApp ONTAPライセンスを使用すると、 ONTAPアラートを表示できます。
 
 
 
+[[licensing]]
 == ライセンス
 
 ONTAPアラートを表示するには、 NetApp ONTAP 9.10 以上のライセンスが必要です。
@@ -70,6 +75,7 @@ ONTAPアラートは、NetApp Consoleの標準 (パブリック) モードでの
 
 
 
+[[how-ontap-alerts-work]]
 == ONTAPアラートの仕組み
 
 ONTAPアラートは、 NetApp Consoleのコア コンポーネントです。  ONTAPアラートはONTAPクラスターを監視し、 ONTAPからアラート データを受信します。
@@ -78,6 +84,7 @@ ONTAPアラートは、NetApp ConsoleSaaS 環境でのみ使用できます。�
 
 
 
+[[supported-systems-and-data-sources]]
 == サポートされているシステムとデータソース
 
 ONTAPアラートを使用して、次のシステムおよびデータ ソースの問題を確認します。

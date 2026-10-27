@@ -4,7 +4,7 @@ permalink: alerts-start-setup.html
 keywords: bluexp, alerts, ontap, netapp 
 summary: ONTAPアラートを表示するには、いくつかの手順を実行して設定します。 
 ---
-= ONTAPアラートを設定する
+= NetApp ConsoleでONTAPアラートを設定する
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -20,12 +20,14 @@ ONTAPアラートを使用するには、いくつかの手順を実行して設
 
 
 
+[[access-to-cluster-resources]]
 == クラスターリソースへのアクセス
 
 アラートを表示するには、ログインしているユーザーがNetApp Console組織に属しており、クラスター リソースへの必要なアクセス権を持っている必要があります。
 
 
 
+[[create-the-console-agent]]
 == コンソールエージェントを作成する
 
 ONTAPアラートを試用または使用するには、 NetApp の営業担当者に問い合わせてください。その後、コンソール エージェントを使用すると、 ONTAPアラートに適切な機能が含まれるようになります。

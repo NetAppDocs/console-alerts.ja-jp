@@ -34,8 +34,6 @@ sidebar:
       url: "/alerts-start-login.html"
   - title: ONTAPアラートを使用する
     entries:
-    - title: ONTAPアラートの概要を表示
-      url: "/alerts-use-overview.html"
     - title: ONTAPストレージの潜在的なリスクを表示する
       url: "/alerts-use-dashboard.html"
     - title: ストレージシステムのアラートを表示する

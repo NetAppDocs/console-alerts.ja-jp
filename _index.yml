@@ -22,10 +22,10 @@ indexpage:
       url: "/alerts-faq.html"
   - title: ONTAPアラートを使用する
     links:
-    - title: ONTAPアラートの概要を表示
-      url: "/alerts-use-overview.html"
     - title: アラートリストページを使用してワークロードの健全性を表示する
       url: "/alerts-use-dashboard.html"
+    - title: ストレージシステムのアラートを表示する
+      url: "/alerts-use-alerts.html"
   - title: ブログとコミュニティ
     links:
     - title: NetApp Console
